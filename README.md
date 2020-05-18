@@ -1,3 +1,3 @@
 # ASR-dataset
 
-Link to be added soon
+Data will be added soon.
